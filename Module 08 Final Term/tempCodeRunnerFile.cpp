@@ -1,0 +1,1 @@
+str.replace(r_word, word.length(), "#");
